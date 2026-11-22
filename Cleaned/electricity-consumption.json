@@ -1,0 +1,1462 @@
+[
+  {
+    "date": "01.01.2025",
+    "averageConsumptionMWhPerHour": 10715.2
+  },
+  {
+    "date": "02.01.2025",
+    "averageConsumptionMWhPerHour": 11281.0
+  },
+  {
+    "date": "03.01.2025",
+    "averageConsumptionMWhPerHour": 11707.6
+  },
+  {
+    "date": "04.01.2025",
+    "averageConsumptionMWhPerHour": 11519.8
+  },
+  {
+    "date": "05.01.2025",
+    "averageConsumptionMWhPerHour": 11571.1
+  },
+  {
+    "date": "06.01.2025",
+    "averageConsumptionMWhPerHour": 11530.7
+  },
+  {
+    "date": "07.01.2025",
+    "averageConsumptionMWhPerHour": 12235.0
+  },
+  {
+    "date": "08.01.2025",
+    "averageConsumptionMWhPerHour": 11361.3
+  },
+  {
+    "date": "09.01.2025",
+    "averageConsumptionMWhPerHour": 11397.3
+  },
+  {
+    "date": "10.01.2025",
+    "averageConsumptionMWhPerHour": 11684.3
+  },
+  {
+    "date": "11.01.2025",
+    "averageConsumptionMWhPerHour": 11871.9
+  },
+  {
+    "date": "12.01.2025",
+    "averageConsumptionMWhPerHour": 11565.2
+  },
+  {
+    "date": "13.01.2025",
+    "averageConsumptionMWhPerHour": 12014.6
+  },
+  {
+    "date": "14.01.2025",
+    "averageConsumptionMWhPerHour": 11269.5
+  },
+  {
+    "date": "15.01.2025",
+    "averageConsumptionMWhPerHour": 11173.3
+  },
+  {
+    "date": "16.01.2025",
+    "averageConsumptionMWhPerHour": 10984.2
+  },
+  {
+    "date": "17.01.2025",
+    "averageConsumptionMWhPerHour": 11053.2
+  },
+  {
+    "date": "18.01.2025",
+    "averageConsumptionMWhPerHour": 10460.1
+  },
+  {
+    "date": "19.01.2025",
+    "averageConsumptionMWhPerHour": 10673.6
+  },
+  {
+    "date": "20.01.2025",
+    "averageConsumptionMWhPerHour": 11077.8
+  },
+  {
+    "date": "21.01.2025",
+    "averageConsumptionMWhPerHour": 12048.4
+  },
+  {
+    "date": "22.01.2025",
+    "averageConsumptionMWhPerHour": 11369.2
+  },
+  {
+    "date": "23.01.2025",
+    "averageConsumptionMWhPerHour": 11277.3
+  },
+  {
+    "date": "24.01.2025",
+    "averageConsumptionMWhPerHour": 11549.1
+  },
+  {
+    "date": "25.01.2025",
+    "averageConsumptionMWhPerHour": 11040.0
+  },
+  {
+    "date": "26.01.2025",
+    "averageConsumptionMWhPerHour": 10376.8
+  },
+  {
+    "date": "27.01.2025",
+    "averageConsumptionMWhPerHour": 10567.4
+  },
+  {
+    "date": "28.01.2025",
+    "averageConsumptionMWhPerHour": 10638.0
+  },
+  {
+    "date": "29.01.2025",
+    "averageConsumptionMWhPerHour": 10542.3
+  },
+  {
+    "date": "30.01.2025",
+    "averageConsumptionMWhPerHour": 10766.5
+  },
+  {
+    "date": "31.01.2025",
+    "averageConsumptionMWhPerHour": 10775.4
+  },
+  {
+    "date": "01.02.2025",
+    "averageConsumptionMWhPerHour": 10790.0
+  },
+  {
+    "date": "02.02.2025",
+    "averageConsumptionMWhPerHour": 10795.3
+  },
+  {
+    "date": "03.02.2025",
+    "averageConsumptionMWhPerHour": 11408.2
+  },
+  {
+    "date": "04.02.2025",
+    "averageConsumptionMWhPerHour": 12185.6
+  },
+  {
+    "date": "05.02.2025",
+    "averageConsumptionMWhPerHour": 11970.2
+  },
+  {
+    "date": "06.02.2025",
+    "averageConsumptionMWhPerHour": 10933.1
+  },
+  {
+    "date": "07.02.2025",
+    "averageConsumptionMWhPerHour": 11464.6
+  },
+  {
+    "date": "08.02.2025",
+    "averageConsumptionMWhPerHour": 10994.8
+  },
+  {
+    "date": "09.02.2025",
+    "averageConsumptionMWhPerHour": 11202.3
+  },
+  {
+    "date": "10.02.2025",
+    "averageConsumptionMWhPerHour": 11432.0
+  },
+  {
+    "date": "11.02.2025",
+    "averageConsumptionMWhPerHour": 11829.2
+  },
+  {
+    "date": "12.02.2025",
+    "averageConsumptionMWhPerHour": 11362.3
+  },
+  {
+    "date": "13.02.2025",
+    "averageConsumptionMWhPerHour": 11832.4
+  },
+  {
+    "date": "14.02.2025",
+    "averageConsumptionMWhPerHour": 11773.7
+  },
+  {
+    "date": "15.02.2025",
+    "averageConsumptionMWhPerHour": 12087.4
+  },
+  {
+    "date": "16.02.2025",
+    "averageConsumptionMWhPerHour": 11527.8
+  },
+  {
+    "date": "17.02.2025",
+    "averageConsumptionMWhPerHour": 11872.8
+  },
+  {
+    "date": "18.02.2025",
+    "averageConsumptionMWhPerHour": 12310.8
+  },
+  {
+    "date": "19.02.2025",
+    "averageConsumptionMWhPerHour": 12211.3
+  },
+  {
+    "date": "20.02.2025",
+    "averageConsumptionMWhPerHour": 12428.0
+  },
+  {
+    "date": "21.02.2025",
+    "averageConsumptionMWhPerHour": 12217.3
+  },
+  {
+    "date": "22.02.2025",
+    "averageConsumptionMWhPerHour": 11314.6
+  },
+  {
+    "date": "23.02.2025",
+    "averageConsumptionMWhPerHour": 10820.6
+  },
+  {
+    "date": "24.02.2025",
+    "averageConsumptionMWhPerHour": 11151.9
+  },
+  {
+    "date": "25.02.2025",
+    "averageConsumptionMWhPerHour": 11267.7
+  },
+  {
+    "date": "26.02.2025",
+    "averageConsumptionMWhPerHour": 10920.5
+  },
+  {
+    "date": "27.02.2025",
+    "averageConsumptionMWhPerHour": 10926.9
+  },
+  {
+    "date": "28.02.2025",
+    "averageConsumptionMWhPerHour": 10655.8
+  },
+  {
+    "date": "01.03.2025",
+    "averageConsumptionMWhPerHour": 10225.8
+  },
+  {
+    "date": "02.03.2025",
+    "averageConsumptionMWhPerHour": 10680.0
+  },
+  {
+    "date": "03.03.2025",
+    "averageConsumptionMWhPerHour": 11050.6
+  },
+  {
+    "date": "04.03.2025",
+    "averageConsumptionMWhPerHour": 10965.5
+  },
+  {
+    "date": "05.03.2025",
+    "averageConsumptionMWhPerHour": 11049.2
+  },
+  {
+    "date": "06.03.2025",
+    "averageConsumptionMWhPerHour": 10594.0
+  },
+  {
+    "date": "07.03.2025",
+    "averageConsumptionMWhPerHour": 10385.9
+  },
+  {
+    "date": "08.03.2025",
+    "averageConsumptionMWhPerHour": 10255.5
+  },
+  {
+    "date": "09.03.2025",
+    "averageConsumptionMWhPerHour": 9792.5
+  },
+  {
+    "date": "10.03.2025",
+    "averageConsumptionMWhPerHour": 10277.1
+  },
+  {
+    "date": "11.03.2025",
+    "averageConsumptionMWhPerHour": 10573.7
+  },
+  {
+    "date": "12.03.2025",
+    "averageConsumptionMWhPerHour": 10674.1
+  },
+  {
+    "date": "13.03.2025",
+    "averageConsumptionMWhPerHour": 10764.3
+  },
+  {
+    "date": "14.03.2025",
+    "averageConsumptionMWhPerHour": 11129.6
+  },
+  {
+    "date": "15.03.2025",
+    "averageConsumptionMWhPerHour": 11353.9
+  },
+  {
+    "date": "16.03.2025",
+    "averageConsumptionMWhPerHour": 10852.0
+  },
+  {
+    "date": "17.03.2025",
+    "averageConsumptionMWhPerHour": 11209.7
+  },
+  {
+    "date": "18.03.2025",
+    "averageConsumptionMWhPerHour": 10942.9
+  },
+  {
+    "date": "19.03.2025",
+    "averageConsumptionMWhPerHour": 10680.0
+  },
+  {
+    "date": "20.03.2025",
+    "averageConsumptionMWhPerHour": 10338.2
+  },
+  {
+    "date": "21.03.2025",
+    "averageConsumptionMWhPerHour": 10228.4
+  },
+  {
+    "date": "22.03.2025",
+    "averageConsumptionMWhPerHour": 10479.1
+  },
+  {
+    "date": "23.03.2025",
+    "averageConsumptionMWhPerHour": 10106.5
+  },
+  {
+    "date": "24.03.2025",
+    "averageConsumptionMWhPerHour": 10675.7
+  },
+  {
+    "date": "25.03.2025",
+    "averageConsumptionMWhPerHour": 10444.6
+  },
+  {
+    "date": "26.03.2025",
+    "averageConsumptionMWhPerHour": 9853.6
+  },
+  {
+    "date": "27.03.2025",
+    "averageConsumptionMWhPerHour": 10564.6
+  },
+  {
+    "date": "28.03.2025",
+    "averageConsumptionMWhPerHour": 10572.2
+  },
+  {
+    "date": "29.03.2025",
+    "averageConsumptionMWhPerHour": 9648.4
+  },
+  {
+    "date": "30.03.2025",
+    "averageConsumptionMWhPerHour": 8956.2
+  },
+  {
+    "date": "31.03.2025",
+    "averageConsumptionMWhPerHour": 9200.0
+  },
+  {
+    "date": "01.04.2025",
+    "averageConsumptionMWhPerHour": 9623.6
+  },
+  {
+    "date": "02.04.2025",
+    "averageConsumptionMWhPerHour": 9718.9
+  },
+  {
+    "date": "03.04.2025",
+    "averageConsumptionMWhPerHour": 9540.5
+  },
+  {
+    "date": "04.04.2025",
+    "averageConsumptionMWhPerHour": 10221.5
+  },
+  {
+    "date": "05.04.2025",
+    "averageConsumptionMWhPerHour": 10250.7
+  },
+  {
+    "date": "06.04.2025",
+    "averageConsumptionMWhPerHour": 9674.4
+  },
+  {
+    "date": "07.04.2025",
+    "averageConsumptionMWhPerHour": 9884.0
+  },
+  {
+    "date": "08.04.2025",
+    "averageConsumptionMWhPerHour": 10101.2
+  },
+  {
+    "date": "09.04.2025",
+    "averageConsumptionMWhPerHour": 10624.0
+  },
+  {
+    "date": "10.04.2025",
+    "averageConsumptionMWhPerHour": 10707.9
+  },
+  {
+    "date": "11.04.2025",
+    "averageConsumptionMWhPerHour": 10661.5
+  },
+  {
+    "date": "12.04.2025",
+    "averageConsumptionMWhPerHour": 10373.0
+  },
+  {
+    "date": "13.04.2025",
+    "averageConsumptionMWhPerHour": 9413.5
+  },
+  {
+    "date": "14.04.2025",
+    "averageConsumptionMWhPerHour": 9753.3
+  },
+  {
+    "date": "15.04.2025",
+    "averageConsumptionMWhPerHour": 9316.5
+  },
+  {
+    "date": "16.04.2025",
+    "averageConsumptionMWhPerHour": 9374.0
+  },
+  {
+    "date": "17.04.2025",
+    "averageConsumptionMWhPerHour": 9027.9
+  },
+  {
+    "date": "18.04.2025",
+    "averageConsumptionMWhPerHour": 8905.1
+  },
+  {
+    "date": "19.04.2025",
+    "averageConsumptionMWhPerHour": 8505.5
+  },
+  {
+    "date": "20.04.2025",
+    "averageConsumptionMWhPerHour": 9095.7
+  },
+  {
+    "date": "21.04.2025",
+    "averageConsumptionMWhPerHour": 9301.0
+  },
+  {
+    "date": "22.04.2025",
+    "averageConsumptionMWhPerHour": 9422.0
+  },
+  {
+    "date": "23.04.2025",
+    "averageConsumptionMWhPerHour": 9332.4
+  },
+  {
+    "date": "24.04.2025",
+    "averageConsumptionMWhPerHour": 9307.4
+  },
+  {
+    "date": "25.04.2025",
+    "averageConsumptionMWhPerHour": 9542.2
+  },
+  {
+    "date": "26.04.2025",
+    "averageConsumptionMWhPerHour": 9673.7
+  },
+  {
+    "date": "27.04.2025",
+    "averageConsumptionMWhPerHour": 9306.6
+  },
+  {
+    "date": "28.04.2025",
+    "averageConsumptionMWhPerHour": 9350.9
+  },
+  {
+    "date": "29.04.2025",
+    "averageConsumptionMWhPerHour": 9514.9
+  },
+  {
+    "date": "30.04.2025",
+    "averageConsumptionMWhPerHour": 9238.1
+  },
+  {
+    "date": "01.05.2025",
+    "averageConsumptionMWhPerHour": 9348.1
+  },
+  {
+    "date": "02.05.2025",
+    "averageConsumptionMWhPerHour": 9695.2
+  },
+  {
+    "date": "03.05.2025",
+    "averageConsumptionMWhPerHour": 9206.1
+  },
+  {
+    "date": "04.05.2025",
+    "averageConsumptionMWhPerHour": 9359.7
+  },
+  {
+    "date": "05.05.2025",
+    "averageConsumptionMWhPerHour": 9722.1
+  },
+  {
+    "date": "06.05.2025",
+    "averageConsumptionMWhPerHour": 9892.8
+  },
+  {
+    "date": "07.05.2025",
+    "averageConsumptionMWhPerHour": 9788.0
+  },
+  {
+    "date": "08.05.2025",
+    "averageConsumptionMWhPerHour": 9515.9
+  },
+  {
+    "date": "09.05.2025",
+    "averageConsumptionMWhPerHour": 9638.5
+  },
+  {
+    "date": "10.05.2025",
+    "averageConsumptionMWhPerHour": 9141.2
+  },
+  {
+    "date": "11.05.2025",
+    "averageConsumptionMWhPerHour": 8640.7
+  },
+  {
+    "date": "12.05.2025",
+    "averageConsumptionMWhPerHour": 8721.1
+  },
+  {
+    "date": "13.05.2025",
+    "averageConsumptionMWhPerHour": 8904.3
+  },
+  {
+    "date": "14.05.2025",
+    "averageConsumptionMWhPerHour": 9332.4
+  },
+  {
+    "date": "15.05.2025",
+    "averageConsumptionMWhPerHour": 9312.1
+  },
+  {
+    "date": "16.05.2025",
+    "averageConsumptionMWhPerHour": 8935.8
+  },
+  {
+    "date": "17.05.2025",
+    "averageConsumptionMWhPerHour": 8555.2
+  },
+  {
+    "date": "18.05.2025",
+    "averageConsumptionMWhPerHour": 8216.8
+  },
+  {
+    "date": "19.05.2025",
+    "averageConsumptionMWhPerHour": 8586.0
+  },
+  {
+    "date": "20.05.2025",
+    "averageConsumptionMWhPerHour": 8730.2
+  },
+  {
+    "date": "21.05.2025",
+    "averageConsumptionMWhPerHour": 8894.0
+  },
+  {
+    "date": "22.05.2025",
+    "averageConsumptionMWhPerHour": 9310.7
+  },
+  {
+    "date": "23.05.2025",
+    "averageConsumptionMWhPerHour": 9080.3
+  },
+  {
+    "date": "24.05.2025",
+    "averageConsumptionMWhPerHour": 8416.5
+  },
+  {
+    "date": "25.05.2025",
+    "averageConsumptionMWhPerHour": 8257.9
+  },
+  {
+    "date": "26.05.2025",
+    "averageConsumptionMWhPerHour": 8776.0
+  },
+  {
+    "date": "27.05.2025",
+    "averageConsumptionMWhPerHour": 8555.9
+  },
+  {
+    "date": "28.05.2025",
+    "averageConsumptionMWhPerHour": 8677.5
+  },
+  {
+    "date": "29.05.2025",
+    "averageConsumptionMWhPerHour": 8016.4
+  },
+  {
+    "date": "30.05.2025",
+    "averageConsumptionMWhPerHour": 8266.2
+  },
+  {
+    "date": "31.05.2025",
+    "averageConsumptionMWhPerHour": 8131.6
+  },
+  {
+    "date": "01.06.2025",
+    "averageConsumptionMWhPerHour": 7884.1
+  },
+  {
+    "date": "02.06.2025",
+    "averageConsumptionMWhPerHour": 8649.4
+  },
+  {
+    "date": "03.06.2025",
+    "averageConsumptionMWhPerHour": 8464.0
+  },
+  {
+    "date": "04.06.2025",
+    "averageConsumptionMWhPerHour": 8568.1
+  },
+  {
+    "date": "05.06.2025",
+    "averageConsumptionMWhPerHour": 8809.6
+  },
+  {
+    "date": "06.06.2025",
+    "averageConsumptionMWhPerHour": 8622.1
+  },
+  {
+    "date": "07.06.2025",
+    "averageConsumptionMWhPerHour": 8236.7
+  },
+  {
+    "date": "08.06.2025",
+    "averageConsumptionMWhPerHour": 8219.7
+  },
+  {
+    "date": "09.06.2025",
+    "averageConsumptionMWhPerHour": 8533.8
+  },
+  {
+    "date": "10.06.2025",
+    "averageConsumptionMWhPerHour": 8454.2
+  },
+  {
+    "date": "11.06.2025",
+    "averageConsumptionMWhPerHour": 8325.7
+  },
+  {
+    "date": "12.06.2025",
+    "averageConsumptionMWhPerHour": 8701.0
+  },
+  {
+    "date": "13.06.2025",
+    "averageConsumptionMWhPerHour": 8559.2
+  },
+  {
+    "date": "14.06.2025",
+    "averageConsumptionMWhPerHour": 8008.3
+  },
+  {
+    "date": "15.06.2025",
+    "averageConsumptionMWhPerHour": 7546.1
+  },
+  {
+    "date": "16.06.2025",
+    "averageConsumptionMWhPerHour": 7891.5
+  },
+  {
+    "date": "17.06.2025",
+    "averageConsumptionMWhPerHour": 7894.0
+  },
+  {
+    "date": "18.06.2025",
+    "averageConsumptionMWhPerHour": 7944.5
+  },
+  {
+    "date": "19.06.2025",
+    "averageConsumptionMWhPerHour": 7956.5
+  },
+  {
+    "date": "20.06.2025",
+    "averageConsumptionMWhPerHour": 7345.6
+  },
+  {
+    "date": "21.06.2025",
+    "averageConsumptionMWhPerHour": 7310.5
+  },
+  {
+    "date": "22.06.2025",
+    "averageConsumptionMWhPerHour": 7176.3
+  },
+  {
+    "date": "23.06.2025",
+    "averageConsumptionMWhPerHour": 8030.5
+  },
+  {
+    "date": "24.06.2025",
+    "averageConsumptionMWhPerHour": 8296.0
+  },
+  {
+    "date": "25.06.2025",
+    "averageConsumptionMWhPerHour": 8617.4
+  },
+  {
+    "date": "26.06.2025",
+    "averageConsumptionMWhPerHour": 8377.6
+  },
+  {
+    "date": "27.06.2025",
+    "averageConsumptionMWhPerHour": 8142.1
+  },
+  {
+    "date": "28.06.2025",
+    "averageConsumptionMWhPerHour": 7993.0
+  },
+  {
+    "date": "29.06.2025",
+    "averageConsumptionMWhPerHour": 7870.0
+  },
+  {
+    "date": "30.06.2025",
+    "averageConsumptionMWhPerHour": 8406.9
+  },
+  {
+    "date": "01.07.2025",
+    "averageConsumptionMWhPerHour": 8094.6
+  },
+  {
+    "date": "02.07.2025",
+    "averageConsumptionMWhPerHour": 7847.2
+  },
+  {
+    "date": "03.07.2025",
+    "averageConsumptionMWhPerHour": 8182.0
+  },
+  {
+    "date": "04.07.2025",
+    "averageConsumptionMWhPerHour": 8490.5
+  },
+  {
+    "date": "05.07.2025",
+    "averageConsumptionMWhPerHour": 7986.0
+  },
+  {
+    "date": "06.07.2025",
+    "averageConsumptionMWhPerHour": 8006.4
+  },
+  {
+    "date": "07.07.2025",
+    "averageConsumptionMWhPerHour": 8290.6
+  },
+  {
+    "date": "08.07.2025",
+    "averageConsumptionMWhPerHour": 8354.1
+  },
+  {
+    "date": "09.07.2025",
+    "averageConsumptionMWhPerHour": 8025.8
+  },
+  {
+    "date": "10.07.2025",
+    "averageConsumptionMWhPerHour": 8140.6
+  },
+  {
+    "date": "11.07.2025",
+    "averageConsumptionMWhPerHour": 8399.7
+  },
+  {
+    "date": "12.07.2025",
+    "averageConsumptionMWhPerHour": 7993.6
+  },
+  {
+    "date": "13.07.2025",
+    "averageConsumptionMWhPerHour": 7704.8
+  },
+  {
+    "date": "14.07.2025",
+    "averageConsumptionMWhPerHour": 8172.7
+  },
+  {
+    "date": "15.07.2025",
+    "averageConsumptionMWhPerHour": 8159.2
+  },
+  {
+    "date": "16.07.2025",
+    "averageConsumptionMWhPerHour": 8172.4
+  },
+  {
+    "date": "17.07.2025",
+    "averageConsumptionMWhPerHour": 8201.9
+  },
+  {
+    "date": "18.07.2025",
+    "averageConsumptionMWhPerHour": 8172.1
+  },
+  {
+    "date": "19.07.2025",
+    "averageConsumptionMWhPerHour": 7764.4
+  },
+  {
+    "date": "20.07.2025",
+    "averageConsumptionMWhPerHour": 7609.0
+  },
+  {
+    "date": "21.07.2025",
+    "averageConsumptionMWhPerHour": 7990.8
+  },
+  {
+    "date": "22.07.2025",
+    "averageConsumptionMWhPerHour": 8045.7
+  },
+  {
+    "date": "23.07.2025",
+    "averageConsumptionMWhPerHour": 8157.7
+  },
+  {
+    "date": "24.07.2025",
+    "averageConsumptionMWhPerHour": 8186.3
+  },
+  {
+    "date": "25.07.2025",
+    "averageConsumptionMWhPerHour": 8344.2
+  },
+  {
+    "date": "26.07.2025",
+    "averageConsumptionMWhPerHour": 7947.2
+  },
+  {
+    "date": "27.07.2025",
+    "averageConsumptionMWhPerHour": 7838.3
+  },
+  {
+    "date": "28.07.2025",
+    "averageConsumptionMWhPerHour": 8315.5
+  },
+  {
+    "date": "29.07.2025",
+    "averageConsumptionMWhPerHour": 8503.6
+  },
+  {
+    "date": "30.07.2025",
+    "averageConsumptionMWhPerHour": 8426.9
+  },
+  {
+    "date": "31.07.2025",
+    "averageConsumptionMWhPerHour": 8534.3
+  },
+  {
+    "date": "01.08.2025",
+    "averageConsumptionMWhPerHour": 8536.3
+  },
+  {
+    "date": "02.08.2025",
+    "averageConsumptionMWhPerHour": 7966.1
+  },
+  {
+    "date": "03.08.2025",
+    "averageConsumptionMWhPerHour": 7832.2
+  },
+  {
+    "date": "04.08.2025",
+    "averageConsumptionMWhPerHour": 8532.7
+  },
+  {
+    "date": "05.08.2025",
+    "averageConsumptionMWhPerHour": 8529.9
+  },
+  {
+    "date": "06.08.2025",
+    "averageConsumptionMWhPerHour": 8412.0
+  },
+  {
+    "date": "07.08.2025",
+    "averageConsumptionMWhPerHour": 8457.8
+  },
+  {
+    "date": "08.08.2025",
+    "averageConsumptionMWhPerHour": 8397.6
+  },
+  {
+    "date": "09.08.2025",
+    "averageConsumptionMWhPerHour": 8085.3
+  },
+  {
+    "date": "10.08.2025",
+    "averageConsumptionMWhPerHour": 8019.7
+  },
+  {
+    "date": "11.08.2025",
+    "averageConsumptionMWhPerHour": 8549.5
+  },
+  {
+    "date": "12.08.2025",
+    "averageConsumptionMWhPerHour": 8322.9
+  },
+  {
+    "date": "13.08.2025",
+    "averageConsumptionMWhPerHour": 8218.3
+  },
+  {
+    "date": "14.08.2025",
+    "averageConsumptionMWhPerHour": 8493.6
+  },
+  {
+    "date": "15.08.2025",
+    "averageConsumptionMWhPerHour": 8998.1
+  },
+  {
+    "date": "16.08.2025",
+    "averageConsumptionMWhPerHour": 8277.4
+  },
+  {
+    "date": "17.08.2025",
+    "averageConsumptionMWhPerHour": 8285.2
+  },
+  {
+    "date": "18.08.2025",
+    "averageConsumptionMWhPerHour": 8457.7
+  },
+  {
+    "date": "19.08.2025",
+    "averageConsumptionMWhPerHour": 8986.3
+  },
+  {
+    "date": "20.08.2025",
+    "averageConsumptionMWhPerHour": 8982.3
+  },
+  {
+    "date": "21.08.2025",
+    "averageConsumptionMWhPerHour": 8645.8
+  },
+  {
+    "date": "22.08.2025",
+    "averageConsumptionMWhPerHour": 8507.5
+  },
+  {
+    "date": "23.08.2025",
+    "averageConsumptionMWhPerHour": 8255.4
+  },
+  {
+    "date": "24.08.2025",
+    "averageConsumptionMWhPerHour": 8268.3
+  },
+  {
+    "date": "25.08.2025",
+    "averageConsumptionMWhPerHour": 9022.9
+  },
+  {
+    "date": "26.08.2025",
+    "averageConsumptionMWhPerHour": 8586.4
+  },
+  {
+    "date": "27.08.2025",
+    "averageConsumptionMWhPerHour": 8517.6
+  },
+  {
+    "date": "28.08.2025",
+    "averageConsumptionMWhPerHour": 8488.3
+  },
+  {
+    "date": "29.08.2025",
+    "averageConsumptionMWhPerHour": 8527.6
+  },
+  {
+    "date": "30.08.2025",
+    "averageConsumptionMWhPerHour": 8259.3
+  },
+  {
+    "date": "31.08.2025",
+    "averageConsumptionMWhPerHour": 7850.3
+  },
+  {
+    "date": "01.09.2025",
+    "averageConsumptionMWhPerHour": 8281.7
+  },
+  {
+    "date": "02.09.2025",
+    "averageConsumptionMWhPerHour": 8480.4
+  },
+  {
+    "date": "03.09.2025",
+    "averageConsumptionMWhPerHour": 8805.4
+  },
+  {
+    "date": "04.09.2025",
+    "averageConsumptionMWhPerHour": 8594.8
+  },
+  {
+    "date": "05.09.2025",
+    "averageConsumptionMWhPerHour": 8430.3
+  },
+  {
+    "date": "06.09.2025",
+    "averageConsumptionMWhPerHour": 7947.9
+  },
+  {
+    "date": "07.09.2025",
+    "averageConsumptionMWhPerHour": 7768.8
+  },
+  {
+    "date": "08.09.2025",
+    "averageConsumptionMWhPerHour": 8076.9
+  },
+  {
+    "date": "09.09.2025",
+    "averageConsumptionMWhPerHour": 8029.3
+  },
+  {
+    "date": "10.09.2025",
+    "averageConsumptionMWhPerHour": 8266.2
+  },
+  {
+    "date": "11.09.2025",
+    "averageConsumptionMWhPerHour": 8595.6
+  },
+  {
+    "date": "12.09.2025",
+    "averageConsumptionMWhPerHour": 8773.9
+  },
+  {
+    "date": "13.09.2025",
+    "averageConsumptionMWhPerHour": 8112.2
+  },
+  {
+    "date": "14.09.2025",
+    "averageConsumptionMWhPerHour": 7922.6
+  },
+  {
+    "date": "15.09.2025",
+    "averageConsumptionMWhPerHour": 8964.9
+  },
+  {
+    "date": "16.09.2025",
+    "averageConsumptionMWhPerHour": 8901.9
+  },
+  {
+    "date": "17.09.2025",
+    "averageConsumptionMWhPerHour": 8366.3
+  },
+  {
+    "date": "18.09.2025",
+    "averageConsumptionMWhPerHour": 8263.7
+  },
+  {
+    "date": "19.09.2025",
+    "averageConsumptionMWhPerHour": 8171.5
+  },
+  {
+    "date": "20.09.2025",
+    "averageConsumptionMWhPerHour": 8075.1
+  },
+  {
+    "date": "21.09.2025",
+    "averageConsumptionMWhPerHour": 7809.6
+  },
+  {
+    "date": "22.09.2025",
+    "averageConsumptionMWhPerHour": 8535.1
+  },
+  {
+    "date": "23.09.2025",
+    "averageConsumptionMWhPerHour": 8950.7
+  },
+  {
+    "date": "24.09.2025",
+    "averageConsumptionMWhPerHour": 8861.9
+  },
+  {
+    "date": "25.09.2025",
+    "averageConsumptionMWhPerHour": 8691.2
+  },
+  {
+    "date": "26.09.2025",
+    "averageConsumptionMWhPerHour": 8517.3
+  },
+  {
+    "date": "27.09.2025",
+    "averageConsumptionMWhPerHour": 7901.8
+  },
+  {
+    "date": "28.09.2025",
+    "averageConsumptionMWhPerHour": 8009.5
+  },
+  {
+    "date": "29.09.2025",
+    "averageConsumptionMWhPerHour": 8917.6
+  },
+  {
+    "date": "30.09.2025",
+    "averageConsumptionMWhPerHour": 9067.8
+  },
+  {
+    "date": "01.10.2025",
+    "averageConsumptionMWhPerHour": 8973.3
+  },
+  {
+    "date": "02.10.2025",
+    "averageConsumptionMWhPerHour": 9096.2
+  },
+  {
+    "date": "03.10.2025",
+    "averageConsumptionMWhPerHour": 9771.6
+  },
+  {
+    "date": "04.10.2025",
+    "averageConsumptionMWhPerHour": 9327.1
+  },
+  {
+    "date": "05.10.2025",
+    "averageConsumptionMWhPerHour": 8962.9
+  },
+  {
+    "date": "06.10.2025",
+    "averageConsumptionMWhPerHour": 8740.5
+  },
+  {
+    "date": "07.10.2025",
+    "averageConsumptionMWhPerHour": 8663.2
+  },
+  {
+    "date": "08.10.2025",
+    "averageConsumptionMWhPerHour": 8865.6
+  },
+  {
+    "date": "09.10.2025",
+    "averageConsumptionMWhPerHour": 8947.0
+  },
+  {
+    "date": "10.10.2025",
+    "averageConsumptionMWhPerHour": 9395.9
+  },
+  {
+    "date": "11.10.2025",
+    "averageConsumptionMWhPerHour": 9073.0
+  },
+  {
+    "date": "12.10.2025",
+    "averageConsumptionMWhPerHour": 9137.5
+  },
+  {
+    "date": "13.10.2025",
+    "averageConsumptionMWhPerHour": 9368.9
+  },
+  {
+    "date": "14.10.2025",
+    "averageConsumptionMWhPerHour": 8842.2
+  },
+  {
+    "date": "15.10.2025",
+    "averageConsumptionMWhPerHour": 9199.4
+  },
+  {
+    "date": "16.10.2025",
+    "averageConsumptionMWhPerHour": 9875.6
+  },
+  {
+    "date": "17.10.2025",
+    "averageConsumptionMWhPerHour": 9535.0
+  },
+  {
+    "date": "18.10.2025",
+    "averageConsumptionMWhPerHour": 9758.8
+  },
+  {
+    "date": "19.10.2025",
+    "averageConsumptionMWhPerHour": 9834.4
+  },
+  {
+    "date": "20.10.2025",
+    "averageConsumptionMWhPerHour": 9787.8
+  },
+  {
+    "date": "21.10.2025",
+    "averageConsumptionMWhPerHour": 10029.6
+  },
+  {
+    "date": "22.10.2025",
+    "averageConsumptionMWhPerHour": 10310.8
+  },
+  {
+    "date": "23.10.2025",
+    "averageConsumptionMWhPerHour": 9978.2
+  },
+  {
+    "date": "24.10.2025",
+    "averageConsumptionMWhPerHour": 9450.1
+  },
+  {
+    "date": "25.10.2025",
+    "averageConsumptionMWhPerHour": 9519.0
+  },
+  {
+    "date": "26.10.2025",
+    "averageConsumptionMWhPerHour": 9269.8
+  },
+  {
+    "date": "27.10.2025",
+    "averageConsumptionMWhPerHour": 9736.8
+  },
+  {
+    "date": "28.10.2025",
+    "averageConsumptionMWhPerHour": 9591.7
+  },
+  {
+    "date": "29.10.2025",
+    "averageConsumptionMWhPerHour": 9408.7
+  },
+  {
+    "date": "30.10.2025",
+    "averageConsumptionMWhPerHour": 9866.8
+  },
+  {
+    "date": "31.10.2025",
+    "averageConsumptionMWhPerHour": 9724.0
+  },
+  {
+    "date": "01.11.2025",
+    "averageConsumptionMWhPerHour": 9255.2
+  },
+  {
+    "date": "02.11.2025",
+    "averageConsumptionMWhPerHour": 9622.9
+  },
+  {
+    "date": "03.11.2025",
+    "averageConsumptionMWhPerHour": 9741.0
+  },
+  {
+    "date": "04.11.2025",
+    "averageConsumptionMWhPerHour": 10145.4
+  },
+  {
+    "date": "05.11.2025",
+    "averageConsumptionMWhPerHour": 9803.6
+  },
+  {
+    "date": "06.11.2025",
+    "averageConsumptionMWhPerHour": 9833.8
+  },
+  {
+    "date": "07.11.2025",
+    "averageConsumptionMWhPerHour": 9579.4
+  },
+  {
+    "date": "08.11.2025",
+    "averageConsumptionMWhPerHour": 9319.3
+  },
+  {
+    "date": "09.11.2025",
+    "averageConsumptionMWhPerHour": 9535.9
+  },
+  {
+    "date": "10.11.2025",
+    "averageConsumptionMWhPerHour": 10009.6
+  },
+  {
+    "date": "11.11.2025",
+    "averageConsumptionMWhPerHour": 10166.2
+  },
+  {
+    "date": "12.11.2025",
+    "averageConsumptionMWhPerHour": 10601.1
+  },
+  {
+    "date": "13.11.2025",
+    "averageConsumptionMWhPerHour": 10485.1
+  },
+  {
+    "date": "14.11.2025",
+    "averageConsumptionMWhPerHour": 10967.0
+  },
+  {
+    "date": "15.11.2025",
+    "averageConsumptionMWhPerHour": 11244.9
+  },
+  {
+    "date": "16.11.2025",
+    "averageConsumptionMWhPerHour": 10250.7
+  },
+  {
+    "date": "17.11.2025",
+    "averageConsumptionMWhPerHour": 10749.8
+  },
+  {
+    "date": "18.11.2025",
+    "averageConsumptionMWhPerHour": 11207.3
+  },
+  {
+    "date": "19.11.2025",
+    "averageConsumptionMWhPerHour": 11620.6
+  },
+  {
+    "date": "20.11.2025",
+    "averageConsumptionMWhPerHour": 11414.0
+  },
+  {
+    "date": "21.11.2025",
+    "averageConsumptionMWhPerHour": 10939.6
+  },
+  {
+    "date": "22.11.2025",
+    "averageConsumptionMWhPerHour": 11783.0
+  },
+  {
+    "date": "23.11.2025",
+    "averageConsumptionMWhPerHour": 10406.5
+  },
+  {
+    "date": "24.11.2025",
+    "averageConsumptionMWhPerHour": 10410.9
+  },
+  {
+    "date": "25.11.2025",
+    "averageConsumptionMWhPerHour": 10955.1
+  },
+  {
+    "date": "26.11.2025",
+    "averageConsumptionMWhPerHour": 12332.5
+  },
+  {
+    "date": "27.11.2025",
+    "averageConsumptionMWhPerHour": 12482.3
+  },
+  {
+    "date": "28.11.2025",
+    "averageConsumptionMWhPerHour": 11551.0
+  },
+  {
+    "date": "29.11.2025",
+    "averageConsumptionMWhPerHour": 10575.0
+  },
+  {
+    "date": "30.11.2025",
+    "averageConsumptionMWhPerHour": 10345.3
+  },
+  {
+    "date": "01.12.2025",
+    "averageConsumptionMWhPerHour": 10831.2
+  },
+  {
+    "date": "02.12.2025",
+    "averageConsumptionMWhPerHour": 11037.8
+  },
+  {
+    "date": "03.12.2025",
+    "averageConsumptionMWhPerHour": 11081.6
+  },
+  {
+    "date": "04.12.2025",
+    "averageConsumptionMWhPerHour": 10575.5
+  },
+  {
+    "date": "05.12.2025",
+    "averageConsumptionMWhPerHour": 10196.0
+  },
+  {
+    "date": "06.12.2025",
+    "averageConsumptionMWhPerHour": 10528.0
+  },
+  {
+    "date": "07.12.2025",
+    "averageConsumptionMWhPerHour": 10674.8
+  },
+  {
+    "date": "08.12.2025",
+    "averageConsumptionMWhPerHour": 11157.0
+  },
+  {
+    "date": "09.12.2025",
+    "averageConsumptionMWhPerHour": 10532.7
+  },
+  {
+    "date": "10.12.2025",
+    "averageConsumptionMWhPerHour": 11040.3
+  },
+  {
+    "date": "11.12.2025",
+    "averageConsumptionMWhPerHour": 10901.7
+  },
+  {
+    "date": "12.12.2025",
+    "averageConsumptionMWhPerHour": 11739.9
+  },
+  {
+    "date": "13.12.2025",
+    "averageConsumptionMWhPerHour": 11992.4
+  },
+  {
+    "date": "14.12.2025",
+    "averageConsumptionMWhPerHour": 12111.5
+  },
+  {
+    "date": "15.12.2025",
+    "averageConsumptionMWhPerHour": 11736.9
+  },
+  {
+    "date": "16.12.2025",
+    "averageConsumptionMWhPerHour": 10742.5
+  },
+  {
+    "date": "17.12.2025",
+    "averageConsumptionMWhPerHour": 11032.4
+  },
+  {
+    "date": "18.12.2025",
+    "averageConsumptionMWhPerHour": 11397.8
+  },
+  {
+    "date": "19.12.2025",
+    "averageConsumptionMWhPerHour": 11097.9
+  },
+  {
+    "date": "20.12.2025",
+    "averageConsumptionMWhPerHour": 10480.3
+  },
+  {
+    "date": "21.12.2025",
+    "averageConsumptionMWhPerHour": 10399.8
+  },
+  {
+    "date": "22.12.2025",
+    "averageConsumptionMWhPerHour": 10847.4
+  },
+  {
+    "date": "23.12.2025",
+    "averageConsumptionMWhPerHour": 11596.6
+  },
+  {
+    "date": "24.12.2025",
+    "averageConsumptionMWhPerHour": 10821.6
+  },
+  {
+    "date": "25.12.2025",
+    "averageConsumptionMWhPerHour": 9882.4
+  },
+  {
+    "date": "26.12.2025",
+    "averageConsumptionMWhPerHour": 9985.4
+  },
+  {
+    "date": "27.12.2025",
+    "averageConsumptionMWhPerHour": 10063.5
+  },
+  {
+    "date": "28.12.2025",
+    "averageConsumptionMWhPerHour": 10883.7
+  },
+  {
+    "date": "29.12.2025",
+    "averageConsumptionMWhPerHour": 11949.7
+  },
+  {
+    "date": "30.12.2025",
+    "averageConsumptionMWhPerHour": 12481.8
+  },
+  {
+    "date": "31.12.2025",
+    "averageConsumptionMWhPerHour": 12741.8
+  }
+]
